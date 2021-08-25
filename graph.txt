@@ -1,0 +1,19 @@
+                   Sarjapur  Kormangala  Bellandur  Manyatta  Banashankari  Indranagar  Jayanagar  Marathalli  Haralur
+                   
+[0]Sarjapur           0          4            0         0           0            0          0           8         0
+
+[1]Kormangala         4          0            8         0           0            0          0           11        0
+
+[2]Bellandur          0          8            0         7           0            4          0           0         2
+
+[3]Manyatta           0          0            7         0           9            14         0           0         0
+
+[4]Banashankari       0          0            0         9           0            10         0           0         0
+
+[5]Indranagar         0          0            4         14          10           0          2           0         0
+
+[6]Jayanagar          0          0            0         0           0            2          0           1         6
+
+[7]Marathalli         8          11           0         0           0            0          1           0         7
+
+[8]Haralur            0          0            2         0           0            0          6           7         0
